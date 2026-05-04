@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+spacy
+pdfplumber
+sentence-transformers
+numpy
+scikit-learn
+streamlit
+python-multipart
